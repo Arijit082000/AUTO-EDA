@@ -1,2 +1,2 @@
 # AUTO-EDA
-Using Pandas Profiling
+Using ydata profiling
